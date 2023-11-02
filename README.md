@@ -1,5 +1,5 @@
 ## About Shiruten
-Hi, I'm an JavaScript engineer. 👋
+Hi, I'm an Web Frontend engineer. 👋
 
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,vue,nuxtjs,react,nextjs,sass,tailwind,vite,webpack,vercel,jest,docker,github,dotnet,unity" />
