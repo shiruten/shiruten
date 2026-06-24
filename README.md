@@ -2,7 +2,7 @@
 Hi, I'm an Web Frontend engineer. 👋
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,vue,nuxtjs,react,nextjs,sass,tailwind,vite,webpack,vercel,jest,docker,github,dotnet,unity" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,bun,vue,nuxtjs,react,nextjs,sass,tailwind,vite,webpack,vercel,jest,vitest,docker,github,dotnet,unity" />
 
 ## 📈 Status
 
@@ -10,8 +10,6 @@ Hi, I'm an Web Frontend engineer. 👋
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shiruten&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiruten&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shiruten&theme=onedark)](https://github-profile-trophy.vercel.app/?username=shiruten&theme=tokyonight)
 
 ## 📨 Contact me.
 
